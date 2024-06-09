@@ -11,7 +11,7 @@ Modules required to be able to use the script successfully
 
 ## 🌟 How to run
 
-:Simply run the script
+: Simply run the script
 
 ## 🤖 Author
 
