@@ -1,4 +1,4 @@
-# Image Compressor
+# 📷 Image Compressor
 
 ## 🛠️ Description
 
